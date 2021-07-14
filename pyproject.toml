@@ -10,6 +10,7 @@ python = "^3.9"
 [tool.poetry.dev-dependencies]
 Django = "^3.2.5"
 black = "^21.6b0"
+autopep8 = "^1.5.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
